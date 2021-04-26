@@ -5,3 +5,5 @@ https://github.com/Official-Hawks/Minecraft/raw/main/__Craftable__.3D.Models.zip
 https://github.com/Official-Hawks/Minecraft/raw/main/__Craftable__.Connected.Textures.zip
 
 https://github.com/Official-Hawks/Minecraft/raw/main/__Craftable__.Minecraft.Dungeons.zip
+
+https://github.com/Official-Hawks/Minecraft/raw/main/__Craftable__.Retro.Style.zip
